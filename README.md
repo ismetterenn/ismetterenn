@@ -5,4 +5,3 @@
 - 🔭 I’m currently learning Python and R.
 - 📫 I love learning statistics and data science.
 - 💬 You can contact me via ismet.eren@metu.edu.tr
--->
