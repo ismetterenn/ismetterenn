@@ -6,3 +6,4 @@
 - 📫 I love learning statistics and data science.
 - 💰 I am also interested to economics.
 - 💬 You can contact me via ismeteren03@gmail.com
+- 💁‍♂️ Here is my Linkedin : https://www.linkedin.com/in/ismet-eren-6bb03b219/
