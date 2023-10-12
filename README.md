@@ -4,4 +4,5 @@
 
 - 🔭 I’m currently learning Python and R.
 - 📫 I love learning statistics and data science.
+- 💰 I am also interested to economics.
 - 💬 You can contact me via ismeteren03@gmail.com
